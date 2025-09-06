@@ -1,0 +1,10 @@
+// Principle 1: People Face Tradeoffs
+digraph {
+	0 [label="Principle 1: People Face Tradeoffs" color=lightblue shape=box style=filled]
+	1 [label="Work vs Leisure" color=lightgrey shape=ellipse style=filled]
+	0 -> 1
+	2 [label="Efficiency vs Equity" color=lightgrey shape=ellipse style=filled]
+	0 -> 2
+	3 [label="Guns vs Butter" color=lightgrey shape=ellipse style=filled]
+	0 -> 3
+}
