@@ -8,3 +8,7 @@ pandas
 openai-agents
 agents
 wrappers
+newsapi-python
+google-genai
+langchain-google-genai 
+"openai-agents[litellm]"
