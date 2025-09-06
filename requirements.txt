@@ -3,3 +3,8 @@ openai-agents
 langsmith
 python-dotenv
 requests
+numpy 
+pandas
+openai-agents
+agents
+wrappers
